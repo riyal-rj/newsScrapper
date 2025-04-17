@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+crewai
+langchain-openai
+playwright
+pymongo
+google-search-results
+python-dotenv
+faiss-cpu
+
