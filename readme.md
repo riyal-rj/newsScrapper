@@ -2,6 +2,9 @@
 
 A FastAPI-based microservice that scrapes, filters, and summarizes stock and market-related news articles for a specified company. The service uses SerpAPI for news searches, Playwright for web scraping, CrewAI for summarization, and MongoDB for persistent storage. It follows a **Model-View-Service (MVS)** architecture for modularity and maintainability.
 
+## System Architecture
+![System Architecture](./architecture.png)
+
 ## Features
 - **Search**: Queries SerpAPI to find recent stock news for a given company.
 - **Scrape**: Extracts article content using Playwright.
