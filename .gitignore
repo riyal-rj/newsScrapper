@@ -2,3 +2,4 @@
 .env
 scrapper.py
 .venv
+test.py
